@@ -352,6 +352,7 @@
 *.lzo
 *.lzr
 *.lzx
+*.m2ts
 *.m3u
 *.m4a
 *.mac
@@ -538,18 +539,7 @@
 *.qda
 *.qit
 *.qpx
-*.r0
-*.r00
-*.r01
-*.r02
-*.r03
-*.r04
-*.r1
-*.r2
-*.r21
-*.r30
 *.ram
-*.rar
 *.raw
 *.rb
 *.rbf
@@ -657,7 +647,6 @@
 *.swf
 *.sy_
 *.sys
-*.tar
 *.tar.bz2
 *.tar.gz
 *.tar.gz2
@@ -819,11 +808,6 @@
 *.ygh
 *.yz1
 *.z
-*.z00
-*.z01
-*.z02
-*.z03
-*.z04
 *.zabw
 *.zap
 *.zed
@@ -832,7 +816,6 @@
 *.zi
 *.zi_
 *.zim
-*.zip
 *.zipx
 *.zix
 *.zl
